@@ -1,0 +1,8 @@
+ 
+.import
+promo/*.*
+*.xcf
+bin
+*.blend
+*.blend1
+*.ttf
